@@ -15,3 +15,9 @@ PalBox lets you easily manage and play PalWorld servers！
 5. pip3 install flask paramiko
 6. cd ./PalBox
 7. python3 ./PalBox/app.py
+
+# About submitting code
+Submitted code modifications can be directly pushed to the main branch, and will be directly merged into the main line after the review is completed.
+
+# Contact me
+Mail: cx330@cx330.top or homo@homo1145.xyz
